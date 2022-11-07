@@ -8,7 +8,7 @@
 A repository for hold effects using [TouchDesigner](https://derivative.ca/).
 <br>
 <br>
-Demo video is ~~[here]()~~. Video and image materials were generated using a [ProjectedGAN](https://github.com/autonomousvision/projected_gan) trained on "[地理院タイル](https://maps.gsi.go.jp/development/ichiran.html)" data.
+Demo video is [here](https://youtu.be/KTUtJqeGmPQ). Video and image materials were generated using a [ProjectedGAN](https://github.com/autonomousvision/projected_gan) trained on "[地理院タイル](https://maps.gsi.go.jp/development/ichiran.html)" data.
 <br>
 <br>
 
